@@ -118,6 +118,3 @@ Feedstock Maintainers
 
 * [@kai-tub](https://github.com/kai-tub/)
 
-
-<!-- dummy commit to enable rerendering -->
-
